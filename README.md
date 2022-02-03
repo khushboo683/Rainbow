@@ -4,7 +4,7 @@ Weather and air quality application.
 
  ### Features
 -------------------------------------------------------------------------------------------------------------
-- Check current weather of any location with interactive emojis and images.
+- Check current weather of any location.
 - Know sunrise and sunset time.
 - Check air quality of searched location.
 - Know air composition of the location.
